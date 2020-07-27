@@ -9,13 +9,13 @@
 ## Tela aplicação web 
 
 <p align="center">
-	<img src="readme/web.gif" width="300" height="600">
+	<img src="readme/web.gif" width="500" height="600">
 </p>
 
 ## Aplicação mobile
 
 <p align="center">
-	<img src="readme/mobile.gif" width="500" height="600"/>
+	<img src="readme/mobile.gif" width="300" height="600"/>
 </p>
 
 <h2><strong>:satellite: tecnologias utilizadas:</strong></h2>
